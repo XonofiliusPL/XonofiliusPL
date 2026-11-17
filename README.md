@@ -1,6 +1,6 @@
 # Xono
 
-[ENG]([(https://github.com/XonofiliusPL/XonofiliusPL)) · [PL]((https://github.com/XonofiliusPL/XonofiliusPL/blob/main/README-PL.md))
+[ENG](https://github.com/XonofiliusPL/XonofiliusPL) · [PL](https://github.com/XonofiliusPL/XonofiliusPL/blob/main/README-PL.md)
 
 **Systems · Infrastructure · Intelligence**
 
