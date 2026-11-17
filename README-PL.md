@@ -1,5 +1,7 @@
 # Xono
 
+[ENG](https://github.com/XonofiliusPL/XonofiliusPL) · [PL](https://github.com/XonofiliusPL/XonofiliusPL/blob/main/README-PL.md)
+
 **Systemy · Infrastruktura · Inteligencja**
 
 Buduję systemy i infrastrukturę — od niskopoziomowych narzędzi i automatyzacji
@@ -11,9 +13,9 @@ po platformy webowe, systemy AI i infrastrukturę rozproszoną.
 
 ## Praca
 
-- [Xono] — strona i portfolio
-- ~~[Royality]~~ — software house: strony, aplikacje webowe, systemy dedykowane, automatyzacja
+- [Portfolio](https://xonofilius.pl) — strona i portfolio
 - ~~[C4S]~~ — infrastruktura i hosting
+- ~~[Royality]~~ — software house: strony, aplikacje webowe, systemy dedykowane, automatyzacja
 
 ## Technologie
 
@@ -34,4 +36,4 @@ tutaj, gdy są gotowe.
 
 ## Kontakt
 
-[My Portfolio] · [GitHub]
+[Moje Portfolio](https://xonofilius.pl) · [GitHub](https://github.com/XonofiliusPL)
