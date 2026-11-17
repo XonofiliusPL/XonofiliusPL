@@ -13,7 +13,7 @@ automation to web platforms, AI systems and distributed infrastructure.
 
 ## Work
 
-- [Portfilio](https://xonofilius.eu) — personal site and portfolio
+- [Portfolio](https://xonofilius.eu) — personal site and portfolio
 - ~~[C4S]~~ — infrastructure and hosting
 - ~~[Royality]~~ — software house: websites, web apps, custom systems, automation
 
